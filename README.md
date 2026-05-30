@@ -1,5 +1,4 @@
 # Customer Segmentation Analysis
-### Python + PostgreSQL Project
 
 ---
 
